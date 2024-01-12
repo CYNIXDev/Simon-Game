@@ -44,4 +44,6 @@
 
 .box-click{
   box-shadow: rgb(255, 255, 255) 0px 0px 50px -12px;
+  background-color: rgb(139, 218, 255);
+  opacity: 0.5;
 }
